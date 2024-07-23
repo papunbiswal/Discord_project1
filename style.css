@@ -1,0 +1,64 @@
+.navigation .nav-pills{
+    text-align: right;
+    margin-top: 0rem;
+    margin: 0.6rem 12rem;
+}
+.navigation .link-active{
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+.list-item-inline{
+
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
+.navigation .list-item-inline .home{
+    color: black;
+}
+.navigation .nav-brand a{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+}
+
+.navigation .nav-brand{
+    font-weight: bold;
+    margin-left: 5rem;
+}
+
+body{
+    background-image: url(redimage.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.hire-me{
+    background-color: rgb(245, 242, 242);
+    max-width: 140px;
+    padding: 0.6rem 1.2rem;
+    color: var(--off-yellow);
+    margin: 1rem auto;
+    border-radius: 0rem;
+    text-decoration: none;
+    color: red;
+}
+.contact-me{
+    background-color: rgb(245, 239, 239);
+    max-width: 140px;
+    padding: 0.6rem 1.2rem;
+    color: var(--off-yellow);
+    margin: 1rem auto;
+    border-radius: 0rem;
+    text-decoration: none;
+    color: red;
+}
+.image{
+    margin-left: 500px;
+    margin-top: -350px;
+}
+.footer{
+    color: white;
+    margin-left: 20rem;
+    margin-top: 15rem;
+}
